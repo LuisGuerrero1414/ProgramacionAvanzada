@@ -1,0 +1,387 @@
+[
+  {
+    "id": 101,
+    "nombre": "Aceite 1L",
+    "precio": 45.0,
+    "categoria": "Abarrotes",
+    "rutaImagen": "src/img/aceite.jpg"
+  },
+  {
+    "id": 102,
+    "nombre": "Arroz 1kg",
+    "precio": 22.5,
+    "categoria": "Abarrotes",
+    "rutaImagen": "src/img/arroz.jpg"
+  },
+  {
+    "id": 103,
+    "nombre": "Frijol 1kg",
+    "precio": 35.0,
+    "categoria": "Abarrotes",
+    "rutaImagen": "src/img/frijol.jpg"
+  },
+  {
+    "id": 104,
+    "nombre": "Pasta 500g",
+    "precio": 12.0,
+    "categoria": "Abarrotes",
+    "rutaImagen": "src/img/pasta.jpg"
+  },
+  {
+    "id": 105,
+    "nombre": "Azúcar 1kg",
+    "precio": 28.0,
+    "categoria": "Abarrotes",
+    "rutaImagen": "src/img/azucar.jpg"
+  },
+  {
+    "id": 201,
+    "nombre": "Agua 600ml",
+    "precio": 15.0,
+    "categoria": "Bebidas",
+    "rutaImagen": "src/img/agua.jpg"
+  },
+  {
+    "id": 202,
+    "nombre": "Refresco 2L",
+    "precio": 38.0,
+    "categoria": "Bebidas",
+    "rutaImagen": "src/img/refresco.jpg"
+  },
+  {
+    "id": 203,
+    "nombre": "Jugo de Naranja",
+    "precio": 25.0,
+    "categoria": "Bebidas",
+    "rutaImagen": "src/img/jugo.jpg"
+  },
+  {
+    "id": 204,
+    "nombre": "Café Soluble",
+    "precio": 85.0,
+    "categoria": "Bebidas",
+    "rutaImagen": "src/img/cafe.jpg"
+  },
+  {
+    "id": 205,
+    "nombre": "Té Helado",
+    "precio": 40.0,
+    "categoria": "Bebidas",
+    "rutaImagen": "src/img/te.jpg"
+  },
+  {
+    "id": 301,
+    "nombre": "Leche Entera 1L",
+    "precio": 26.0,
+    "categoria": "Lácteos y Huevo",
+    "rutaImagen": "src/img/leche.jpg"
+  },
+  {
+    "id": 302,
+    "nombre": "Huevo 12 pzas",
+    "precio": 85.0,
+    "categoria": "Lácteos y Huevo",
+    "rutaImagen": "src/img/huevo.jpg"
+  },
+  {
+    "id": 303,
+    "nombre": "Yogurt Natural",
+    "precio": 42.0,
+    "categoria": "Lácteos y Huevo",
+    "rutaImagen": "src/img/yogurt.jpg"
+  },
+  {
+    "id": 304,
+    "nombre": "Mantequilla",
+    "precio": 28.5,
+    "categoria": "Lácteos y Huevo",
+    "rutaImagen": "src/img/mante.jpg"
+  },
+  {
+    "id": 305,
+    "nombre": "Crema Ácida",
+    "precio": 32.0,
+    "categoria": "Lácteos y Huevo",
+    "rutaImagen": "src/img/crema.jpg"
+  },
+  {
+    "id": 401,
+    "nombre": "Manzana Roja kg",
+    "precio": 45.0,
+    "categoria": "Frutas y Verduras",
+    "rutaImagen": "src/img/manzana.jpg"
+  },
+  {
+    "id": 402,
+    "nombre": "Plátano kg",
+    "precio": 22.0,
+    "categoria": "Frutas y Verduras",
+    "rutaImagen": "src/img/platano.jpg"
+  },
+  {
+    "id": 403,
+    "nombre": "Tomate kg",
+    "precio": 35.0,
+    "categoria": "Frutas y Verduras",
+    "rutaImagen": "src/img/tomate.jpg"
+  },
+  {
+    "id": 404,
+    "nombre": "Lechuga Romana",
+    "precio": 18.0,
+    "categoria": "Frutas y Verduras",
+    "rutaImagen": "src/img/lechuga.jpg"
+  },
+  {
+    "id": 405,
+    "nombre": "Aguacate kg",
+    "precio": 75.0,
+    "categoria": "Frutas y Verduras",
+    "rutaImagen": "src/img/aguacate.jpg"
+  },
+  {
+    "id": 501,
+    "nombre": "Pechuga de Pollo",
+    "precio": 120.0,
+    "categoria": "Carnes y Pescados",
+    "rutaImagen": "src/img/pollo.jpg"
+  },
+  {
+    "id": 502,
+    "nombre": "Bistec de Res",
+    "precio": 185.0,
+    "categoria": "Carnes y Pescados",
+    "rutaImagen": "src/img/res.jpg"
+  },
+  {
+    "id": 503,
+    "nombre": "Chuleta de Cerdo",
+    "precio": 110.0,
+    "categoria": "Carnes y Pescados",
+    "rutaImagen": "src/img/cerdo.jpg"
+  },
+  {
+    "id": 504,
+    "nombre": "Filete de Pescado",
+    "precio": 140.0,
+    "categoria": "Carnes y Pescados",
+    "rutaImagen": "src/img/pescado.jpg"
+  },
+  {
+    "id": 505,
+    "nombre": "Camarón Limpio",
+    "precio": 220.0,
+    "categoria": "Carnes y Pescados",
+    "rutaImagen": "src/img/camaron.jpg"
+  },
+  {
+    "id": 601,
+    "nombre": "Jamón de Pavo",
+    "precio": 65.0,
+    "categoria": "Salchichonería",
+    "rutaImagen": "src/img/jamon.jpg"
+  },
+  {
+    "id": 602,
+    "nombre": "Salchicha Viena",
+    "precio": 42.0,
+    "categoria": "Salchichonería",
+    "rutaImagen": "src/img/salchicha.jpg"
+  },
+  {
+    "id": 603,
+    "nombre": "Tocino Ahumado",
+    "precio": 78.0,
+    "categoria": "Salchichonería",
+    "rutaImagen": "src/img/tocino.jpg"
+  },
+  {
+    "id": 604,
+    "nombre": "Queso Panela",
+    "precio": 85.0,
+    "categoria": "Salchichonería",
+    "rutaImagen": "src/img/queso.jpg"
+  },
+  {
+    "id": 605,
+    "nombre": "Chorizo Casero",
+    "precio": 55.0,
+    "categoria": "Salchichonería",
+    "rutaImagen": "src/img/chorizo.jpg"
+  },
+  {
+    "id": 701,
+    "nombre": "Pan de Caja",
+    "precio": 48.0,
+    "categoria": "Panadería y Tortillería",
+    "rutaImagen": "src/img/pan.jpg"
+  },
+  {
+    "id": 702,
+    "nombre": "Concha Vainilla",
+    "precio": 12.0,
+    "categoria": "Panadería y Tortillería",
+    "rutaImagen": "src/img/concha.jpg"
+  },
+  {
+    "id": 703,
+    "nombre": "Bolillo pza",
+    "precio": 2.5,
+    "categoria": "Panadería y Tortillería",
+    "rutaImagen": "src/img/bolillo.jpg"
+  },
+  {
+    "id": 704,
+    "nombre": "Tortilla kg",
+    "precio": 22.0,
+    "categoria": "Panadería y Tortillería",
+    "rutaImagen": "src/img/tortilla.jpg"
+  },
+  {
+    "id": 705,
+    "nombre": "Dona Chocolate",
+    "precio": 15.0,
+    "categoria": "Panadería y Tortillería",
+    "rutaImagen": "src/img/dona.jpg"
+  },
+  {
+    "id": 801,
+    "nombre": "Detergente Polvo",
+    "precio": 95.0,
+    "categoria": "Limpieza del Hogar",
+    "rutaImagen": "src/img/det.jpg"
+  },
+  {
+    "id": 802,
+    "nombre": "Suavizante 1L",
+    "precio": 45.0,
+    "categoria": "Limpieza del Hogar",
+    "rutaImagen": "src/img/suav.jpg"
+  },
+  {
+    "id": 803,
+    "nombre": "Cloro",
+    "precio": 18.0,
+    "categoria": "Limpieza del Hogar",
+    "rutaImagen": "src/img/cloro.jpg"
+  },
+  {
+    "id": 804,
+    "nombre": "Papel Higiénico",
+    "precio": 35.0,
+    "categoria": "Limpieza del Hogar",
+    "rutaImagen": "src/img/papel.jpg"
+  },
+  {
+    "id": 805,
+    "nombre": "Escoba",
+    "precio": 65.0,
+    "categoria": "Limpieza del Hogar",
+    "rutaImagen": "src/img/escoba.jpg"
+  },
+  {
+    "id": 901,
+    "nombre": "Shampoo 400ml",
+    "precio": 75.0,
+    "categoria": "Cuidado Personal",
+    "rutaImagen": "src/img/shamp.jpg"
+  },
+  {
+    "id": 902,
+    "nombre": "Jabón de Barra",
+    "precio": 18.5,
+    "categoria": "Cuidado Personal",
+    "rutaImagen": "src/img/jabon.jpg"
+  },
+  {
+    "id": 903,
+    "nombre": "Pasta Dental",
+    "precio": 32.0,
+    "categoria": "Cuidado Personal",
+    "rutaImagen": "src/img/pasta.jpg"
+  },
+  {
+    "id": 904,
+    "nombre": "Desodorante",
+    "precio": 58.0,
+    "categoria": "Cuidado Personal",
+    "rutaImagen": "src/img/deso.jpg"
+  },
+  {
+    "id": 905,
+    "nombre": "Crema Corporal",
+    "precio": 85.0,
+    "categoria": "Cuidado Personal",
+    "rutaImagen": "src/img/crema.jpg"
+  },
+  {
+    "id": 1001,
+    "nombre": "Papas Original",
+    "precio": 18.0,
+    "categoria": "Snacks y Dulcería",
+    "rutaImagen": "src/img/papas.jpg"
+  },
+  {
+    "id": 1002,
+    "nombre": "Galletas Oreo",
+    "precio": 22.0,
+    "categoria": "Snacks y Dulcería",
+    "rutaImagen": "src/img/galletas.jpg"
+  },
+  {
+    "id": 1003,
+    "nombre": "Chocolate Barra",
+    "precio": 15.5,
+    "categoria": "Snacks y Dulcería",
+    "rutaImagen": "src/img/choco.jpg"
+  },
+  {
+    "id": 1004,
+    "nombre": "Gomitas",
+    "precio": 12.0,
+    "categoria": "Snacks y Dulcería",
+    "rutaImagen": "src/img/gomitas.jpg"
+  },
+  {
+    "id": 1005,
+    "nombre": "Cacahuates",
+    "precio": 14.0,
+    "categoria": "Snacks y Dulcería",
+    "rutaImagen": "src/img/cacahuate.jpg"
+  },
+  {
+    "id": 1101,
+    "nombre": "Croquetas Perro",
+    "precio": 180.0,
+    "categoria": "Mascotas",
+    "rutaImagen": "src/img/perro.jpg"
+  },
+  {
+    "id": 1102,
+    "nombre": "Sobre Gato",
+    "precio": 12.5,
+    "categoria": "Mascotas",
+    "rutaImagen": "src/img/gato.jpg"
+  },
+  {
+    "id": 1103,
+    "nombre": "Arena Gato",
+    "precio": 145.0,
+    "categoria": "Mascotas",
+    "rutaImagen": "src/img/arena.jpg"
+  },
+  {
+    "id": 1104,
+    "nombre": "Juguete Hueso",
+    "precio": 55.0,
+    "categoria": "Mascotas",
+    "rutaImagen": "src/img/jueg.jpg"
+  },
+  {
+    "id": 1105,
+    "nombre": "Collar Perro",
+    "precio": 85.0,
+    "categoria": "Mascotas",
+    "rutaImagen": "src/img/collar.jpg"
+  }
+]
