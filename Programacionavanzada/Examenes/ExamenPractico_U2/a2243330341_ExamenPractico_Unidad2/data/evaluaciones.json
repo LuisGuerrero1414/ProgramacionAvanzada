@@ -1,0 +1,136 @@
+{
+  "evaluaciones": [
+    {
+      "id": "PROGRAMACION_ORIENTADA_A_OBJETOS_MONTOTO_GONZALEZ_ADRIANA_G-1",
+      "asignatura": "PROGRAMACION ORIENTADA A OBJETOS",
+      "profesor": "MONTOTO GONZALEZ ADRIANA",
+      "grupo": "G-1",
+      "estado": "SIN_INICIAR",
+      "detalleInstrumento": {
+        "fecha": "",
+        "criterios": "",
+        "observaciones": ""
+      },
+      "productoIntegrador": {
+        "programaEducativo": "Ing. Sistemas Computacionales",
+        "asignatura": "PROGRAMACION ORIENTADA A OBJETOS",
+        "docente": "MONTOTO GONZALEZ ADRIANA",
+        "grupoLetra": "G-1",
+        "periodo": "",
+        "actividad": "",
+        "nivelAtributo": "",
+        "atributoEgreso": "",
+        "criterioDesempeno": "",
+        "indicadores": "",
+        "observaciones": ""
+      },
+      "rubrica": [
+        {
+          "nombre": "",
+          "matricula": ""
+        },
+        {
+          "nombre": "",
+          "matricula": ""
+        },
+        {
+          "nombre": "",
+          "matricula": ""
+        },
+        {
+          "nombre": "",
+          "matricula": ""
+        }
+      ],
+      "listaCotejo": {
+        "productoIntegrador": "",
+        "atributoEgreso": "",
+        "criterioDesempeno": "",
+        "indicadores": [
+          {
+            "descripcion": "Indicador 1",
+            "cumple": false
+          },
+          {
+            "descripcion": "Indicador 2",
+            "cumple": false
+          },
+          {
+            "descripcion": "Indicador 3",
+            "cumple": false
+          },
+          {
+            "descripcion": "Indicador 4",
+            "cumple": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "ELECTRICIDAD,_MAGNETISMO_Y_OPTICA_CASTAN_ROCHA_EMILIO_H-1",
+      "asignatura": "ELECTRICIDAD, MAGNETISMO Y OPTICA",
+      "profesor": "CASTAN ROCHA EMILIO",
+      "grupo": "H-1",
+      "estado": "SIN_INICIAR",
+      "detalleInstrumento": {
+        "fecha": "",
+        "criterios": "",
+        "observaciones": ""
+      },
+      "productoIntegrador": {
+        "programaEducativo": "Ing. Sistemas Computacionales",
+        "asignatura": "ELECTRICIDAD, MAGNETISMO Y OPTICA",
+        "docente": "CASTAN ROCHA EMILIO",
+        "grupoLetra": "H-1",
+        "periodo": "",
+        "actividad": "",
+        "nivelAtributo": "",
+        "atributoEgreso": "",
+        "criterioDesempeno": "",
+        "indicadores": "",
+        "observaciones": ""
+      },
+      "rubrica": [
+        {
+          "nombre": "",
+          "matricula": ""
+        },
+        {
+          "nombre": "",
+          "matricula": ""
+        },
+        {
+          "nombre": "",
+          "matricula": ""
+        },
+        {
+          "nombre": "",
+          "matricula": ""
+        }
+      ],
+      "listaCotejo": {
+        "productoIntegrador": "",
+        "atributoEgreso": "",
+        "criterioDesempeno": "",
+        "indicadores": [
+          {
+            "descripcion": "Indicador 1",
+            "cumple": false
+          },
+          {
+            "descripcion": "Indicador 2",
+            "cumple": false
+          },
+          {
+            "descripcion": "Indicador 3",
+            "cumple": false
+          },
+          {
+            "descripcion": "Indicador 4",
+            "cumple": false
+          }
+        ]
+      }
+    }
+  ]
+}

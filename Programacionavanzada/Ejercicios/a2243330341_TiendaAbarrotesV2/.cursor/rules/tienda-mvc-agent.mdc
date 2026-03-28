@@ -1,0 +1,18 @@
+---
+description: Proyecto Tienda Abarrotes — MVC, stack Java y convenciones del curso
+alwaysApply: true
+---
+
+# Proyecto Java MVC (Tienda Abarrotes)
+
+Antes de cambiar código, **lee y cumple `agent.md` en la raíz del proyecto**; ahí están las reglas completas.
+
+## Resumen obligatorio
+
+- **Arquitectura:** Modelo (datos + lógica), Vista (solo UI, sin negocio ni archivos/BD), Controlador (orquesta modelo ↔ vista). `Main` en default package; `Persistencia` solo si el ejercicio lo pide.
+- **Stack:** **Solo JDK 21** para compilar y para el lenguaje (sin APIs ni sintaxis de versiones posteriores). Eclipse-compatible. Librerías: Gson o Jackson (JSON), Apache POI (Excel), Swing o consola. Al compilar por línea de comandos, usar `javac --release 21` para que el `.class` coincida con el JRE 21 de Eclipse.
+- **Código:** CamelCase / lowerCamelCase; `try-catch` en lectura/escritura de archivos; comentarios breves en métodos principales.
+- **Flujo:** Planificar clases a crear o modificar antes de implementar; herencia correcta desde clases abstractas (p. ej. `Producto`).
+- **No usar** Spring u otros frameworks no autorizados; no mezclar I/O o BD en la Vista.
+
+Si algo no está claro, prioriza el texto de `agent.md`.

@@ -1,0 +1,272 @@
+REPORTE IMAGENES POR SKU
+========================
+FALTA: 7501000000001 -> Arroz Frijol Mixto 1
+FALTA: 7501000000002 -> Arroz Frijol Mixto 2
+FALTA: 7501000000003 -> Arroz Frijol Mixto 3
+FALTA: 7501000000004 -> Arroz Frijol Mixto 4
+FALTA: 7501000000005 -> Arroz Frijol Mixto 5
+FALTA: 7501000000006 -> Arroz Frijol Mixto 6
+FALTA: 7501000000007 -> Aceite Comestible 1
+FALTA: 7501000000008 -> Aceite Comestible 2
+FALTA: 7501000000009 -> Aceite Comestible 3
+FALTA: 7501000000010 -> Aceite Comestible 4
+FALTA: 7501000000011 -> Aceite Comestible 5
+FALTA: 7501000000012 -> Aceite Comestible 6
+FALTA: 7501000000013 -> Pasta Seca 1
+FALTA: 7501000000014 -> Pasta Seca 2
+FALTA: 7501000000015 -> Pasta Seca 3
+FALTA: 7501000000016 -> Pasta Seca 4
+FALTA: 7501000000017 -> Pasta Seca 5
+FALTA: 7501000000018 -> Pasta Seca 6
+FALTA: 7501000000019 -> Harina para Cocina 1
+FALTA: 7501000000020 -> Harina para Cocina 2
+FALTA: 7501000000021 -> Harina para Cocina 3
+FALTA: 7501000000022 -> Harina para Cocina 4
+FALTA: 7501000000023 -> Harina para Cocina 5
+FALTA: 7501000000024 -> Harina para Cocina 6
+FALTA: 7501000000025 -> Azúcar Refinada 1
+FALTA: 7501000000026 -> Azúcar Refinada 2
+FALTA: 7501000000027 -> Azúcar Refinada 3
+FALTA: 7501000000028 -> Azúcar Refinada 4
+FALTA: 7501000000029 -> Azúcar Refinada 5
+FALTA: 7501000000030 -> Azúcar Refinada 6
+FALTA: 7501000000031 -> Leche Entera 1
+FALTA: 7501000000032 -> Leche Entera 2
+FALTA: 7501000000033 -> Leche Entera 3
+FALTA: 7501000000034 -> Leche Entera 4
+FALTA: 7501000000035 -> Leche Entera 5
+FALTA: 7501000000036 -> Leche Entera 6
+FALTA: 7501000000037 -> Huevo Fresco 1
+FALTA: 7501000000038 -> Huevo Fresco 2
+FALTA: 7501000000039 -> Huevo Fresco 3
+FALTA: 7501000000040 -> Huevo Fresco 4
+FALTA: 7501000000041 -> Huevo Fresco 5
+FALTA: 7501000000042 -> Huevo Fresco 6
+FALTA: 7501000000043 -> Queso para Mesa 1
+FALTA: 7501000000044 -> Queso para Mesa 2
+FALTA: 7501000000045 -> Queso para Mesa 3
+FALTA: 7501000000046 -> Queso para Mesa 4
+FALTA: 7501000000047 -> Queso para Mesa 5
+FALTA: 7501000000048 -> Queso para Mesa 6
+FALTA: 7501000000049 -> Yogur Natural 1
+FALTA: 7501000000050 -> Yogur Natural 2
+FALTA: 7501000000051 -> Yogur Natural 3
+FALTA: 7501000000052 -> Yogur Natural 4
+FALTA: 7501000000053 -> Yogur Natural 5
+FALTA: 7501000000054 -> Yogur Natural 6
+FALTA: 7501000000055 -> Mantequilla 1
+FALTA: 7501000000056 -> Mantequilla 2
+FALTA: 7501000000057 -> Mantequilla 3
+FALTA: 7501000000058 -> Mantequilla 4
+FALTA: 7501000000059 -> Mantequilla 5
+FALTA: 7501000000060 -> Mantequilla 6
+FALTA: 7501000000061 -> Agua Purificada 1
+FALTA: 7501000000062 -> Agua Purificada 2
+FALTA: 7501000000063 -> Agua Purificada 3
+FALTA: 7501000000064 -> Agua Purificada 4
+FALTA: 7501000000065 -> Agua Purificada 5
+FALTA: 7501000000066 -> Agua Purificada 6
+FALTA: 7501000000067 -> Refresco Sabor 1
+FALTA: 7501000000068 -> Refresco Sabor 2
+FALTA: 7501000000069 -> Refresco Sabor 3
+FALTA: 7501000000070 -> Refresco Sabor 4
+FALTA: 7501000000071 -> Refresco Sabor 5
+FALTA: 7501000000072 -> Refresco Sabor 6
+FALTA: 7501000000073 -> Jugo Frutal 1
+FALTA: 7501000000074 -> Jugo Frutal 2
+FALTA: 7501000000075 -> Jugo Frutal 3
+FALTA: 7501000000076 -> Jugo Frutal 4
+FALTA: 7501000000077 -> Jugo Frutal 5
+FALTA: 7501000000078 -> Jugo Frutal 6
+FALTA: 7501000000079 -> Bebida Energética 1
+FALTA: 7501000000080 -> Bebida Energética 2
+FALTA: 7501000000081 -> Bebida Energética 3
+FALTA: 7501000000082 -> Bebida Energética 4
+FALTA: 7501000000083 -> Bebida Energética 5
+FALTA: 7501000000084 -> Bebida Energética 6
+FALTA: 7501000000085 -> Café Té Mezcla 1
+FALTA: 7501000000086 -> Café Té Mezcla 2
+FALTA: 7501000000087 -> Café Té Mezcla 3
+FALTA: 7501000000088 -> Café Té Mezcla 4
+FALTA: 7501000000089 -> Café Té Mezcla 5
+FALTA: 7501000000090 -> Café Té Mezcla 6
+FALTA: 7501000000091 -> Papas Botana 1
+FALTA: 7501000000092 -> Papas Botana 2
+FALTA: 7501000000093 -> Papas Botana 3
+FALTA: 7501000000094 -> Papas Botana 4
+FALTA: 7501000000095 -> Papas Botana 5
+FALTA: 7501000000096 -> Papas Botana 6
+FALTA: 7501000000097 -> Galleta Dulce 1
+FALTA: 7501000000098 -> Galleta Dulce 2
+FALTA: 7501000000099 -> Galleta Dulce 3
+FALTA: 7501000000100 -> Galleta Dulce 4
+FALTA: 7501000000101 -> Galleta Dulce 5
+FALTA: 7501000000102 -> Galleta Dulce 6
+FALTA: 7501000000103 -> Dulce Tradicional 1
+FALTA: 7501000000104 -> Dulce Tradicional 2
+FALTA: 7501000000105 -> Dulce Tradicional 3
+FALTA: 7501000000106 -> Dulce Tradicional 4
+FALTA: 7501000000107 -> Dulce Tradicional 5
+FALTA: 7501000000108 -> Dulce Tradicional 6
+FALTA: 7501000000109 -> Fruto Seco 1
+FALTA: 7501000000110 -> Fruto Seco 2
+FALTA: 7501000000111 -> Fruto Seco 3
+FALTA: 7501000000112 -> Fruto Seco 4
+FALTA: 7501000000113 -> Fruto Seco 5
+FALTA: 7501000000114 -> Fruto Seco 6
+FALTA: 7501000000115 -> Chocolate Caramelo 1
+FALTA: 7501000000116 -> Chocolate Caramelo 2
+FALTA: 7501000000117 -> Chocolate Caramelo 3
+FALTA: 7501000000118 -> Chocolate Caramelo 4
+FALTA: 7501000000119 -> Chocolate Caramelo 5
+FALTA: 7501000000120 -> Chocolate Caramelo 6
+FALTA: 7501000000121 -> Fruta Fresca 1
+FALTA: 7501000000122 -> Fruta Fresca 2
+FALTA: 7501000000123 -> Fruta Fresca 3
+FALTA: 7501000000124 -> Fruta Fresca 4
+FALTA: 7501000000125 -> Fruta Fresca 5
+FALTA: 7501000000126 -> Fruta Fresca 6
+FALTA: 7501000000127 -> Verdura Fresca 1
+FALTA: 7501000000128 -> Verdura Fresca 2
+FALTA: 7501000000129 -> Verdura Fresca 3
+FALTA: 7501000000130 -> Verdura Fresca 4
+FALTA: 7501000000131 -> Verdura Fresca 5
+FALTA: 7501000000132 -> Verdura Fresca 6
+FALTA: 7501000000133 -> Hierbas de Cocina 1
+FALTA: 7501000000134 -> Hierbas de Cocina 2
+FALTA: 7501000000135 -> Hierbas de Cocina 3
+FALTA: 7501000000136 -> Hierbas de Cocina 4
+FALTA: 7501000000137 -> Hierbas de Cocina 5
+FALTA: 7501000000138 -> Hierbas de Cocina 6
+FALTA: 7501000000139 -> Corte y Conveniencia 1
+FALTA: 7501000000140 -> Corte y Conveniencia 2
+FALTA: 7501000000141 -> Corte y Conveniencia 3
+FALTA: 7501000000142 -> Corte y Conveniencia 4
+FALTA: 7501000000143 -> Corte y Conveniencia 5
+FALTA: 7501000000144 -> Corte y Conveniencia 6
+FALTA: 7501000000145 -> Tubérculo y Raíz 1
+FALTA: 7501000000146 -> Tubérculo y Raíz 2
+FALTA: 7501000000147 -> Tubérculo y Raíz 3
+FALTA: 7501000000148 -> Tubérculo y Raíz 4
+FALTA: 7501000000149 -> Tubérculo y Raíz 5
+FALTA: 7501000000150 -> Tubérculo y Raíz 6
+FALTA: 7501000000151 -> Pollo Fresco 1
+FALTA: 7501000000152 -> Pollo Fresco 2
+FALTA: 7501000000153 -> Pollo Fresco 3
+FALTA: 7501000000154 -> Pollo Fresco 4
+FALTA: 7501000000155 -> Pollo Fresco 5
+FALTA: 7501000000156 -> Pollo Fresco 6
+FALTA: 7501000000157 -> Carne de Res 1
+FALTA: 7501000000158 -> Carne de Res 2
+FALTA: 7501000000159 -> Carne de Res 3
+FALTA: 7501000000160 -> Carne de Res 4
+FALTA: 7501000000161 -> Carne de Res 5
+FALTA: 7501000000162 -> Carne de Res 6
+FALTA: 7501000000163 -> Carne de Cerdo 1
+FALTA: 7501000000164 -> Carne de Cerdo 2
+FALTA: 7501000000165 -> Carne de Cerdo 3
+FALTA: 7501000000166 -> Carne de Cerdo 4
+FALTA: 7501000000167 -> Carne de Cerdo 5
+FALTA: 7501000000168 -> Carne de Cerdo 6
+FALTA: 7501000000169 -> Jamón y Embutido 1
+FALTA: 7501000000170 -> Jamón y Embutido 2
+FALTA: 7501000000171 -> Jamón y Embutido 3
+FALTA: 7501000000172 -> Jamón y Embutido 4
+FALTA: 7501000000173 -> Jamón y Embutido 5
+FALTA: 7501000000174 -> Jamón y Embutido 6
+FALTA: 7501000000175 -> Pescado Fresco 1
+FALTA: 7501000000176 -> Pescado Fresco 2
+FALTA: 7501000000177 -> Pescado Fresco 3
+FALTA: 7501000000178 -> Pescado Fresco 4
+FALTA: 7501000000179 -> Pescado Fresco 5
+FALTA: 7501000000180 -> Pescado Fresco 6
+FALTA: 7501000000181 -> Detergente Hogar 1
+FALTA: 7501000000182 -> Detergente Hogar 2
+FALTA: 7501000000183 -> Detergente Hogar 3
+FALTA: 7501000000184 -> Detergente Hogar 4
+FALTA: 7501000000185 -> Detergente Hogar 5
+FALTA: 7501000000186 -> Detergente Hogar 6
+FALTA: 7501000000187 -> Limpiador Hogar 1
+FALTA: 7501000000188 -> Limpiador Hogar 2
+FALTA: 7501000000189 -> Limpiador Hogar 3
+FALTA: 7501000000190 -> Limpiador Hogar 4
+FALTA: 7501000000191 -> Limpiador Hogar 5
+FALTA: 7501000000192 -> Limpiador Hogar 6
+FALTA: 7501000000193 -> Papel Higiénico 1
+FALTA: 7501000000194 -> Papel Higiénico 2
+FALTA: 7501000000195 -> Papel Higiénico 3
+FALTA: 7501000000196 -> Papel Higiénico 4
+FALTA: 7501000000197 -> Papel Higiénico 5
+FALTA: 7501000000198 -> Papel Higiénico 6
+FALTA: 7501000000199 -> Desechable Hogar 1
+FALTA: 7501000000200 -> Desechable Hogar 2
+FALTA: 7501000000201 -> Desechable Hogar 3
+FALTA: 7501000000202 -> Desechable Hogar 4
+FALTA: 7501000000203 -> Desechable Hogar 5
+FALTA: 7501000000204 -> Desechable Hogar 6
+FALTA: 7501000000205 -> Insecticida Hogar 1
+FALTA: 7501000000206 -> Insecticida Hogar 2
+FALTA: 7501000000207 -> Insecticida Hogar 3
+FALTA: 7501000000208 -> Insecticida Hogar 4
+FALTA: 7501000000209 -> Insecticida Hogar 5
+FALTA: 7501000000210 -> Insecticida Hogar 6
+FALTA: 7501000000211 -> Jabón Personal 1
+FALTA: 7501000000212 -> Jabón Personal 2
+FALTA: 7501000000213 -> Jabón Personal 3
+FALTA: 7501000000214 -> Jabón Personal 4
+FALTA: 7501000000215 -> Jabón Personal 5
+FALTA: 7501000000216 -> Jabón Personal 6
+FALTA: 7501000000217 -> Cuidado Bucal 1
+FALTA: 7501000000218 -> Cuidado Bucal 2
+FALTA: 7501000000219 -> Cuidado Bucal 3
+FALTA: 7501000000220 -> Cuidado Bucal 4
+FALTA: 7501000000221 -> Cuidado Bucal 5
+FALTA: 7501000000222 -> Cuidado Bucal 6
+FALTA: 7501000000223 -> Champú Cabello 1
+FALTA: 7501000000224 -> Champú Cabello 2
+FALTA: 7501000000225 -> Champú Cabello 3
+FALTA: 7501000000226 -> Champú Cabello 4
+FALTA: 7501000000227 -> Champú Cabello 5
+FALTA: 7501000000228 -> Champú Cabello 6
+FALTA: 7501000000229 -> Desodorante 1
+FALTA: 7501000000230 -> Desodorante 2
+FALTA: 7501000000231 -> Desodorante 3
+FALTA: 7501000000232 -> Desodorante 4
+FALTA: 7501000000233 -> Desodorante 5
+FALTA: 7501000000234 -> Desodorante 6
+FALTA: 7501000000235 -> Afeitado Personal 1
+FALTA: 7501000000236 -> Afeitado Personal 2
+FALTA: 7501000000237 -> Afeitado Personal 3
+FALTA: 7501000000238 -> Afeitado Personal 4
+FALTA: 7501000000239 -> Afeitado Personal 5
+FALTA: 7501000000240 -> Afeitado Personal 6
+FALTA: 7501000000241 -> Atún Enlatado 1
+FALTA: 7501000000242 -> Atún Enlatado 2
+FALTA: 7501000000243 -> Atún Enlatado 3
+FALTA: 7501000000244 -> Atún Enlatado 4
+FALTA: 7501000000245 -> Atún Enlatado 5
+FALTA: 7501000000246 -> Atún Enlatado 6
+FALTA: 7501000000247 -> Vegetal en Conserva 1
+FALTA: 7501000000248 -> Vegetal en Conserva 2
+FALTA: 7501000000249 -> Vegetal en Conserva 3
+FALTA: 7501000000250 -> Vegetal en Conserva 4
+FALTA: 7501000000251 -> Vegetal en Conserva 5
+FALTA: 7501000000252 -> Vegetal en Conserva 6
+FALTA: 7501000000253 -> Chile Salsa 1
+FALTA: 7501000000254 -> Chile Salsa 2
+FALTA: 7501000000255 -> Chile Salsa 3
+FALTA: 7501000000256 -> Chile Salsa 4
+FALTA: 7501000000257 -> Chile Salsa 5
+FALTA: 7501000000258 -> Chile Salsa 6
+FALTA: 7501000000259 -> Sopa Instantánea 1
+FALTA: 7501000000260 -> Sopa Instantánea 2
+FALTA: 7501000000261 -> Sopa Instantánea 3
+FALTA: 7501000000262 -> Sopa Instantánea 4
+FALTA: 7501000000263 -> Sopa Instantánea 5
+FALTA: 7501000000264 -> Sopa Instantánea 6
+FALTA: 7501000000265 -> Leguminosa Enlatada 1
+FALTA: 7501000000266 -> Leguminosa Enlatada 2
+FALTA: 7501000000267 -> Leguminosa Enlatada 3
+FALTA: 7501000000268 -> Leguminosa Enlatada 4
+FALTA: 7501000000269 -> Leguminosa Enlatada 5
+FALTA: 7501000000270 -> Leguminosa Enlatada 6

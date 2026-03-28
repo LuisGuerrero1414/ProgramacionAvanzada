@@ -1,0 +1,18 @@
+[
+  {
+    "clave": "pieza",
+    "descripcion": "Pieza"
+  },
+  {
+    "clave": "kg",
+    "descripcion": "Kilogramo"
+  },
+  {
+    "clave": "lt",
+    "descripcion": "Litro"
+  },
+  {
+    "clave": "",
+    "descripcion": ""
+  }
+]

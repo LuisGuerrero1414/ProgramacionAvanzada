@@ -1,0 +1,56 @@
+ID,Nombre,Categoria,Precio,Tipo de Almacenamiento
+101,Aceite 1L,Abarrotes,45.0,No perecedero (Anaquel)
+102,Arroz 1kg,Abarrotes,22.5,No perecedero (Anaquel)
+103,Frijol 1kg,Abarrotes,35.0,No perecedero (Anaquel)
+104,Pasta 500g,Abarrotes,12.0,No perecedero (Anaquel)
+105,Azúcar 1kg,Abarrotes,28.0,No perecedero (Anaquel)
+201,Agua 600ml,Bebidas,15.0,Líquidos / Pesado
+202,Refresco 2L,Bebidas,38.0,Líquidos / Pesado
+203,Jugo de Naranja,Bebidas,25.0,Líquidos / Pesado
+204,Café Soluble,Bebidas,85.0,Líquidos / Pesado
+205,Té Helado,Bebidas,40.0,Líquidos / Pesado
+301,Leche Entera 1L,Lácteos y Huevo,26.0,Cadena de Frío
+302,Huevo 12 pzas,Lácteos y Huevo,85.0,Cadena de Frío
+303,Yogurt Natural,Lácteos y Huevo,42.0,Cadena de Frío
+304,Mantequilla,Lácteos y Huevo,28.5,Cadena de Frío
+305,Crema Ácida,Lácteos y Huevo,32.0,Cadena de Frío
+401,Manzana Roja kg,Frutas y Verduras,45.0,Perecedero (Peso variable)
+402,Plátano kg,Frutas y Verduras,22.0,Perecedero (Peso variable)
+403,Tomate kg,Frutas y Verduras,35.0,Perecedero (Peso variable)
+404,Lechuga Romana,Frutas y Verduras,18.0,Perecedero (Peso variable)
+405,Aguacate kg,Frutas y Verduras,75.0,Perecedero (Peso variable)
+501,Pechuga de Pollo,Carnes y Pescados,120.0,Congelados / Frescos
+502,Bistec de Res,Carnes y Pescados,185.0,Congelados / Frescos
+503,Chuleta de Cerdo,Carnes y Pescados,110.0,Congelados / Frescos
+504,Filete de Pescado,Carnes y Pescados,140.0,Congelados / Frescos
+505,Camarón Limpio,Carnes y Pescados,220.0,Congelados / Frescos
+601,Jamón de Pavo,Salchichonería,65.0,Refrigerados
+602,Salchicha Viena,Salchichonería,42.0,Refrigerados
+603,Tocino Ahumado,Salchichonería,78.0,Refrigerados
+604,Queso Panela,Salchichonería,85.0,Refrigerados
+605,Chorizo Casero,Salchichonería,55.0,Refrigerados
+701,Pan de Caja,Panadería y Tortillería,48.0,Alta rotación diaria
+702,Concha Vainilla,Panadería y Tortillería,12.0,Alta rotación diaria
+703,Bolillo pza,Panadería y Tortillería,2.5,Alta rotación diaria
+704,Tortilla kg,Panadería y Tortillería,22.0,Alta rotación diaria
+705,Dona Chocolate,Panadería y Tortillería,15.0,Alta rotación diaria
+801,Detergente Polvo,Limpieza del Hogar,95.0,Químicos (Aislados)
+802,Suavizante 1L,Limpieza del Hogar,45.0,Químicos (Aislados)
+803,Cloro,Limpieza del Hogar,18.0,Químicos (Aislados)
+804,Papel Higiénico,Limpieza del Hogar,35.0,Químicos (Aislados)
+805,Escoba,Limpieza del Hogar,65.0,Químicos (Aislados)
+901,Shampoo 400ml,Cuidado Personal,75.0,Higiene
+902,Jabón de Barra,Cuidado Personal,18.5,Higiene
+903,Pasta Dental,Cuidado Personal,32.0,Higiene
+904,Desodorante,Cuidado Personal,58.0,Higiene
+905,Crema Corporal,Cuidado Personal,85.0,Higiene
+1001,Papas Original,Snacks y Dulcería,18.0,Compra por impulso
+1002,Galletas Oreo,Snacks y Dulcería,22.0,Compra por impulso
+1003,Chocolate Barra,Snacks y Dulcería,15.5,Compra por impulso
+1004,Gomitas,Snacks y Dulcería,12.0,Compra por impulso
+1005,Cacahuates,Snacks y Dulcería,14.0,Compra por impulso
+1101,Croquetas Perro,Mascotas,180.0,Volumen / Peso
+1102,Sobre Gato,Mascotas,12.5,Volumen / Peso
+1103,Arena Gato,Mascotas,145.0,Volumen / Peso
+1104,Juguete Hueso,Mascotas,55.0,Volumen / Peso
+1105,Collar Perro,Mascotas,85.0,Volumen / Peso
