@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+    <motor_activo>sqlserver</motor_activo>
+    
+    <db_perfil id="sqlserver">
+        <host>localhost</host>
+        <instancia>SQLEXPRESS01</instancia>
+        <!-- Puerto TCP (IPAll) en SQL Server Configuration Manager. Si lo rellenas, JDBC conecta directo y no usa el Browser. -->
+        <puerto></puerto>
+        <nombre_bd>PAVENTA</nombre_bd>
+        <usuario>paventa_user</usuario>
+        <password>Paventa2026!</password>
+    </db_perfil>
+</configuracion>
