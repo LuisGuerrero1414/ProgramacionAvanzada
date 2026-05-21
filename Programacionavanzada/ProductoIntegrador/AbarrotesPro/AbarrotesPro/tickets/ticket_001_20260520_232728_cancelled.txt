@@ -1,0 +1,28 @@
+*** TICKET ANULADO - DEVOLUCION ***
+
+========================================
+           ABARROTES PRO
+========================================
+Fecha:              20/05/2026
+Hora:               23:27:28
+ID Transaccion:     1
+Atendio:            Administrador
+----------------------------------------
+DETALLE DE COMPRA
+----------------------------------------
+Producto               Cant   P.Unit   Subtotal
+----------------------------------------
+Aceite spray             16    44.51     712.16
+----------------------------------------
+Cantidad total articulos:              16
+Subtotal:                          712.16
+IVA (16%):                         113.95
+----------------------------------------
+TOTAL FINAL:                       826.11
+Metodo de Pago:                  Efectivo
+Pago con:                    $     900.00
+Su cambio:                   $      73.89
+========================================
+   Gracias por su preferencia!
+        Vuelva pronto.
+========================================
